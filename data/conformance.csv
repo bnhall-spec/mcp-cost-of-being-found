@@ -1,0 +1,65 @@
+failure_mode,client,occurrences,note
+GET_to_POST_only_endpoint,node,2952,expects 405
+GET_to_POST_only_endpoint,Bun,2237,expects 405
+GET_to_POST_only_endpoint,zevruna-monitor,1205,expects 405
+GET_to_POST_only_endpoint,rokmcp-collector,253,expects 405
+GET_to_POST_only_endpoint,undici,130,expects 405
+GET_to_POST_only_endpoint,utopian-foundry-probe,92,expects 405
+GET_to_POST_only_endpoint,Mozilla,83,expects 405
+GET_to_POST_only_endpoint,agent-tools.cloud-crawler,72,expects 405
+GET_to_POST_only_endpoint,io.verifymcp,69,expects 405
+GET_to_POST_only_endpoint,GolemreachTrustBot,61,expects 405
+GET_to_POST_only_endpoint,AIVE-MCP-EndpointProbe,58,expects 405
+GET_to_POST_only_endpoint,reliability-bureau-spike,55,expects 405
+GET_to_POST_only_endpoint,402explorer,54,expects 405
+GET_to_POST_only_endpoint,Neuronto,31,expects 405
+GET_to_POST_only_endpoint,curl,12,expects 405
+GET_to_POST_only_endpoint,ATXScanner,10,expects 405
+GET_to_POST_only_endpoint,Deno,10,expects 405
+GET_to_POST_only_endpoint,BrickBlueBot,9,expects 405
+GET_to_POST_only_endpoint,(none),8,expects 405
+GET_to_POST_only_endpoint,python-requests,8,expects 405
+GET_to_POST_only_endpoint,Vouch-Census,7,expects 405
+GET_to_POST_only_endpoint,Python-urllib,6,expects 405
+GET_to_POST_only_endpoint,agentprobe,6,expects 405
+GET_to_POST_only_endpoint,Claude-User,4,expects 405
+GET_to_POST_only_endpoint,python-httpx,3,expects 405
+GET_to_POST_only_endpoint,Go-http-client,3,expects 405
+GET_to_POST_only_endpoint,Launch7-liveness,3,expects 405
+GET_to_POST_only_endpoint,AgentGrade,2,expects 405
+GET_to_POST_only_endpoint,meshdns-catalog-sync,2,expects 405
+GET_to_POST_only_endpoint,mcp-research-scan,2,expects 405
+GET_to_POST_only_endpoint,mcp-dangling-audit,2,expects 405
+GET_to_POST_only_endpoint,AgentCatalogResearch,2,expects 405
+GET_to_POST_only_endpoint,AgentTrust-Monitor,2,expects 405
+GET_to_POST_only_endpoint,akashi,2,expects 405
+GET_to_POST_only_endpoint,autogovern.io-observatory,2,expects 405
+GET_to_POST_only_endpoint,SaSameAgentAudit,1,expects 405
+GET_to_POST_only_endpoint,AgentReputationBot,1,expects 405
+GET_to_POST_only_endpoint,PulseGate-Indexer,1,expects 405
+GET_to_POST_only_endpoint,mcpcomp,1,expects 405
+GET_to_POST_only_endpoint,bee-queen-probe,1,expects 405
+GET_to_POST_only_endpoint,dataset-integrity-audit,1,expects 405
+GET_to_POST_only_endpoint,mcpmon-probe,1,expects 405
+GET_to_POST_only_endpoint,arete-mcp-oauth,1,expects 405
+GET_to_POST_only_endpoint,AegiaLabsCensus,1,expects 405
+GET_to_POST_only_endpoint,trustfolio-oauth-census,1,expects 405
+GET_to_POST_only_endpoint,CyMetica-AI-DD,1,expects 405
+GET_to_POST_only_endpoint,mcp-research-census,1,expects 405
+GET_to_POST_only_endpoint,seeq-design-survey,1,expects 405
+GET_to_POST_only_endpoint,mcp-registry-scan,1,expects 405
+GET_to_POST_only_endpoint,Pennywise-Candidate-Verifier,1,expects 405
+GET_to_POST_only_endpoint,Pennywise-Promotion-Verifier,1,expects 405
+GET_to_POST_only_endpoint,mcp-mortality-survey,1,expects 405
+GET_to_POST_only_endpoint,ai-product-index-liveness,1,expects 405
+GET_to_POST_only_endpoint,opencompose-crawler,1,expects 405
+GET_to_POST_only_endpoint,IlbowAPIFactoryBot,1,expects 405
+401_dead_end_no_discovery,SaSame-MCP-Audit,46,never fetched metadata
+401_dead_end_no_discovery,curl,10,never fetched metadata
+401_dead_end_no_discovery,Python-urllib,4,never fetched metadata
+401_dead_end_no_discovery,node,3,never fetched metadata
+401_dead_end_no_discovery,mcp,3,never fetched metadata
+401_dead_end_no_discovery,Mozilla,2,never fetched metadata
+401_dead_end_no_discovery,python-requests,2,never fetched metadata
+401_dead_end_no_discovery,maghs,1,never fetched metadata
+401_dead_end_no_discovery,Claude-User,1,never fetched metadata

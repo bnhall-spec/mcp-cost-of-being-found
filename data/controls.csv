@@ -1,0 +1,5 @@
+comparison,window,days,requests,req_per_day,note
+pre_listing_baseline,..2026-08-12,45,286,6.36,endpoint did not exist; 404s only
+post_listing,2026-08-12..,45,65836,1463.02,"single intervention, no other submission"
+optout_before,SentinelOracle,12,48,4.0,cutover 2026-09-15
+optout_after,SentinelOracle,3,3,1.0,cutover 2026-09-15
