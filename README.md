@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23070611.svg)](https://doi.org/10.5281/zenodo.23070611)
 # The Cost of Being Found — dataset
 
 Server-side observations of a public Model Context Protocol server over the 45 days following
