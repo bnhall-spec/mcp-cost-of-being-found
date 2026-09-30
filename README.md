@@ -1,11 +1,11 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23070611.svg)](https://doi.org/10.5281/zenodo.23070611)
 # The Cost of Being Found — dataset
 
-Server-side observations of a public Model Context Protocol server over the 45 days following
-a single registry listing.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23070611.svg)](https://doi.org/10.5281/zenodo.23070611)
 
-**Paper:** *The Cost of Being Found: Six Weeks of Server-Side Observation After One MCP Registry
-Listing.* Bowman Hall, 2026. arXiv:XXXX.XXXXX
+Server-side observations of a public Model Context Protocol server over the 45 days following a single registry listing.
+
+**Paper:** *The Cost of Being Found: Six Weeks of Server-Side Observation After One MCP Registry Listing.* Bowman Hall, 2026. [DOI: 10.5281/zenodo.23070611](https://doi.org/10.5281/zenodo.23070611).
+
 **Licence:** CC0 1.0 (data) · MIT (code)
 
 ---
